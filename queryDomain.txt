@@ -1,1 +1,1 @@
-https://site.com/?ip={IP}&port={PORT}
+http://ff004d.site/index.php?ip={IP}&port={PORT}
