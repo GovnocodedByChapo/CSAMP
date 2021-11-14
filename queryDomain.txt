@@ -1,1 +1,1 @@
-https://site.com/
+https://site.com/?ip={IP}&port={PORT}
